@@ -12,7 +12,7 @@ const Pokemon = (props) => {
     
     const calcularHP = () => {
         // TO-DO: Use real formula
-        // link
+        // link 
         // This one is made up
         return 65 + (nivel * 3); 
     }
