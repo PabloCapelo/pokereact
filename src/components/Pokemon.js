@@ -14,7 +14,7 @@ const Pokemon = (props) => {
         // TO-DO: Use real formula
         // link
         // This one is made up
-        return 65 + (nivel * 3);
+        return 65 + (nivel * 3); 
     }
     const calcularAtaque = () => {
         return 130 + (nivel * 2);
