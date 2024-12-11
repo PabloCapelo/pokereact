@@ -16,6 +16,7 @@ const Pokemon = (props) => {
         // This one is made up
         return 65 + (nivel * 3); 
     }
+    
 
     const calcularAtaque = () => {
         return 130 + (nivel * 2);
